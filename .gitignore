@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# file
+/Cassava
+/Chili
+/Corn/.ipynb_checkpoints
+/Corn/corn.h5
+/Tea/.ipynb_checkpoints
+/Tea/Tea.h5
+/Tomato/.ipynb_checkpoints
+/Tomato/Tomato.h5
